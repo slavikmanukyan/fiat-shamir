@@ -1,0 +1,15 @@
+{
+  "name": "fiat-shamir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fiat-shamir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["fiat", "shamir"],
+  "author": "Slavik Manukyan",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^3.8.0"
+  }
+}
